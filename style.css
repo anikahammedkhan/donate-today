@@ -83,3 +83,37 @@ input {
     margin-bottom: 60px;
     margin-top: 50px;
 }
+
+.third-section {
+    text-align: center;
+    margin-top: 160px;
+}
+
+.donate-plan {
+    display: flex;
+    margin-left: 10%;
+    padding-right: 200px;
+    text-align: left;
+
+}
+
+#food {
+    padding: 80px 30px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 15px;
+    margin-right: 40px;
+}
+
+#shelter {
+    padding: 80px 30px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 15px;
+    margin-right: 40px;
+}
+
+#education {
+    padding: 80px 30px;
+    border-radius: 15px;
+    margin-right: 40px;
+    background: #FFF4D6;
+}

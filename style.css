@@ -1,0 +1,32 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.first-section {
+    text-align: center;
+    height: 600px;
+    width: 100%;
+    padding-top: 250px;
+    color: white;
+    background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(images/hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paragraph {
+    margin-bottom: 50px;
+}
+
+.btn {
+    padding: 15px 30px;
+    border-radius: 10px;
+    background: #FF5959;
+    text-decoration: none;
+    color: white;
+}

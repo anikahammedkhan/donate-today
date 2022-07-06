@@ -47,7 +47,7 @@ h1 {
 
 .flexible {
     display: flex;
-    margin-left: 30%;
+    justify-content: center;
 }
 
 .grey {
@@ -116,4 +116,22 @@ input {
     border-radius: 15px;
     margin-right: 40px;
     background: #FFF4D6;
+}
+
+.fourth-section {
+    text-align: center;
+    margin-top: 160px;
+    margin-bottom: 130px;
+    background-color: #fafafa;
+}
+
+#non-profit {
+    padding-top: 50px;
+}
+
+#fund,
+#donors,
+#countries {
+    padding: 80px 30px;
+    margin-right: 40px;
 }
